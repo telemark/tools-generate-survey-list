@@ -20,7 +20,7 @@
     "axios": "0.18.0",
     "birthdate-from-id": "2.0.0",
     "csvtojson": "2.0.8",
-    "dotenv": "6.0.0",
+    "dotenv": "6.1.0",
     "get-age": "1.0.1",
     "jsonwebtoken": "8.3.0",
     "uuid-random": "1.0.6"
