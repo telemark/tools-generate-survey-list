@@ -10,7 +10,8 @@
     "coverage": "nyc ava",
     "coveralls": "nyc ava && nyc report --reporter=lcov && cat coverage/lcov.info | coveralls",
     "standard-fix": "standard --fix",
-    "start": "node index.js",
+    "start": "node utils/runner.js",
+    "check-duplicates": "node utils/remove-duplicates.js",
     "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "keywords": [],
@@ -23,6 +24,7 @@
     "dotenv": "6.1.0",
     "get-age": "1.0.1",
     "jsonwebtoken": "8.3.0",
+    "then-sleep": "1.0.1",
     "uuid-random": "1.0.6"
   },
   "devDependencies": {
