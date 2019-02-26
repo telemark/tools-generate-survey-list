@@ -23,7 +23,7 @@
     "csvtojson": "2.0.8",
     "dotenv": "6.2.0",
     "get-age": "1.0.1",
-    "jsonwebtoken": "8.4.0",
+    "jsonwebtoken": "8.5.0",
     "then-sleep": "1.0.1",
     "uuid-random": "1.0.6"
   },
