@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.18.1",
     "birthdate-from-id": "2.0.0",
     "csvtojson": "2.0.8",
     "dotenv": "8.0.0",
